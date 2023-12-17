@@ -1,4 +1,4 @@
-# 3kh0.github.io V2
+# Theflash900299.github.io V2
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Theflash900299/Theflash900299.github.io?style=for-the-badge&logo=github&label=Repo%20stars&color=yellow)
 ![GitHub issues](https://img.shields.io/github/issues/3kh0/website-v2?logo=github&style=for-the-badge)
