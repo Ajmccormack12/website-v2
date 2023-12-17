@@ -1,6 +1,6 @@
 # 3kh0.github.io V2
 
-![GitHub Repo stars](https://img.shields.io/github/stars/3kh0/website-v2?color=yellow&label=Repo%20stars&logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/Theflash900299/Theflash900299.github.io?style=for-the-badge&logo=github&label=Repo%20stars&color=yellow)
 ![GitHub issues](https://img.shields.io/github/issues/3kh0/website-v2?logo=github&style=for-the-badge)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/3kh0/website-v2?logo=github&style=for-the-badge)
 ![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/3kh0/website-v2?logo=codefactor&style=for-the-badge)
